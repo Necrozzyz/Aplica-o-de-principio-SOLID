@@ -1,5 +1,5 @@
 # Código onde não houve aplicação do princípio SOLID
-lass UserProfile
+class UserProfile
   def initialize(name, email)
     @name = nome
     @email = email
